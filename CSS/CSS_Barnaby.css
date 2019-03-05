@@ -4,26 +4,30 @@
 
 /*///////////////////////IMAGES CAKES////////////////////////////////////////*/
 .Cake1{
-  background-image: url('../images/Brownie_1.jpg');
+  background-image: url('../images/LemonDrizzle_1.jpg');
 }
 .Cake2{
-  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
+  background-image: url('../images/Carrot_1.jpg');
 }
 .Cake3{
-  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
+  background-image: url('../images/Brownie_1.jpg');
 }
 .Cake4{
-  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
+  background-image: url('../images/Cheesecake_4.jpg');
 }
 .Cake5{
-  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
+  background-image: url('../images/LemonDrizzle_1.jpg');
 }
 .Cake6{
-  background-image: url("http://dash.ga.co/assets/firstcourse.jpg");
+  background-image: url('../images/LemonDrizzle_1.jpg');
 }
 .price {
   float: right;
 }
+
+
+
+
 
 div {
   height: 400px;
